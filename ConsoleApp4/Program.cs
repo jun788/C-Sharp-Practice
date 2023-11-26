@@ -13,7 +13,7 @@ class Progrem()
         Console.WriteLine();
     }
 
-    // This is a function to sort an Int array
+    // This is a function to sort an Int array by Bubble Sort algorithm.
     static void SortF(int[] arr)
     {
         int temp = 0;
